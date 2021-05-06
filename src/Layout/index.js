@@ -1,7 +1,7 @@
 import React from "react";
 import { Switch, Redirect, Route } from "react-router-dom";
 
-import Home from "./Home/Home";
+import Home from "./Home/index";
 import Study from "./Deck/Study";
 import NotFound from "./NotFound";
 import Header from "./Header";
